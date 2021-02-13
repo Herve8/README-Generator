@@ -15,7 +15,7 @@ function generateReadMe(data) {
   * [Contribution](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [githubAccount] (#githubAccount)
+  * [GithubAccount] (#githubAccount)
   
   # Installation
   The following necessary dependencies must be installed to run the application properly: ${data.Installation}
