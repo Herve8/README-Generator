@@ -3,8 +3,7 @@ function generateReadMe(data) {
     return`
   # Project Title 
   ${data.Title}
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/Herve8/README-Generator)
-
+  
   # Description
   ${data.Description}
 
@@ -25,6 +24,7 @@ function generateReadMe(data) {
 
   # License
   This project is license under the ${data.License} license.
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/Herve8/README-Generator)
 
   # Contribution
   ​Contributors: ${data.Contribution}
