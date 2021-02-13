@@ -10,7 +10,7 @@ function generateReadMe(data) {
   # Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
+  * [Licence](#licence)
   * [Contribution](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -22,8 +22,8 @@ function generateReadMe(data) {
   # Usage
   How to use this application. ${data.Usage}
 
-  # License
-  This project is license under the ${data.License} license.
+  # Licence
+  This project is licence under the ${data.Licence} licence.
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/Herve8/README-Generator)
 
   # Contribution

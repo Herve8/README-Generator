@@ -29,7 +29,7 @@ const questions = [
     {
       type: "list",
       message: "Please choose a licence you have used for this project?",
-      name: "License",
+      name: "Licence",
       choices: ['ISC License', 'MIT License', 'Apache 2.0 Licence, Version 2.0', 'BSD-2-Clause', 'None of the above']
     },
     {

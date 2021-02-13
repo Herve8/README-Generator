@@ -16,7 +16,7 @@
   # Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
+  * [Licence](#licence)
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/Herve8/README-Generator)
   * [Contribution](#contributing)
   * [Tests](#tests)
@@ -29,8 +29,8 @@
   # Usage
   How to use this application. any bootcamp students
 
-  # License
-  This project is license under the ISC License license.
+  # Licence
+  This project is license under the ISC Licene licence.
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/Herve8/README-Generator)
 
   # Contribution
