@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This is a README.md file generator that creates a README.md file",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herve Malvina",
+  "license": "ISC"
+}
