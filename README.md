@@ -7,6 +7,7 @@
 
   # Video tutorial
   <img src="/demo/readme.gif" width="800" height="600"/>
+  
   # Project Title 
   README Generator
   # Description
