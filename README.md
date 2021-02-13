@@ -1,18 +1,17 @@
+# Github URL:  # Project Title 
+  README Generator
 
   # Github URL:
   https://github.com/Herve8/README-Generator
 
-  # Video link on Google Drive:
-  https://drive.google.com/file/d/1OVbrZMJSlVHcD7N17ZLXA4ZlsMkvHVUf/view
-  # Project Title 
-  README Generator
+  # Video link on Google drive:
+  https://drive.google.com/file/d/1oiYcAAMjX74IzXxiD-hTWi3qij_9wu10/view
 
-  # Video demonstration
+   # Video demonstration
   ![DEADME gif](/demo/readme.gif)
-  
 
   # Description
-  It generates a README file after answering some questions
+  It generates a README file
 
   # Table of Contents 
   * [Installation](#installation)
@@ -25,19 +24,19 @@
   * [GithubAccount] (#githubAccount)
   
   # Installation
-  The following necessary dependencies must be installed to run the application properly: Running the command node index.js
+  The following necessary dependencies must be installed to run the application properly: Running command node index.js
 
   # Usage
-  How to use this application. any Bootcamp students
+  How to use this application. any bootcamp students
 
   # License
   This project is license under the ISC License license.
 
   # Contribution
-  ​Contributors: i have worked on this project from scratch
+  ​Contributors: Coding and testing
 
   # Tests
-  To run tests, you need to run the following command: By running the command node index.js
+  To run tests, you need to run the following command: Running node index.js
 
   # Questions
   If you have any questions about the repo, please contact undefined directly hmalvina@yahoo.com.
