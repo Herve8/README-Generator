@@ -6,7 +6,8 @@
   https://drive.google.com/file/d/1z8E4_LLMdpGwzu0tMMZQ31mk0HUv8lBE/view
 
   # Video tutorial
-  ![README Demo](/demo/readme.gif){:height="50%" width="50%"}
+  ![README Demo]<img src="/demo/readme.gif" width="400" height="400>
+  /*![README Demo](/demo/readme.gif){:height="50%" width="50%"}*/
   
   # Project Title 
   README Generator
