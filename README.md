@@ -6,7 +6,7 @@
   https://drive.google.com/file/d/1z8E4_LLMdpGwzu0tMMZQ31mk0HUv8lBE/view
 
   # Video tutorial
-  ![README Demo](/demo/demo.gif)
+  ![README Demo](/demo/readme.gif)
   
   # Project Title 
   README Generator
