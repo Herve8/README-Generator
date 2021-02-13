@@ -6,8 +6,8 @@
   https://drive.google.com/file/d/1z8E4_LLMdpGwzu0tMMZQ31mk0HUv8lBE/view
 
   # Video tutorial
-  <img src="<img src="https://drive.google.com/file/d/1z8E4_LLMdpGwzu0tMMZQ31mk0HUv8lBE/preview" width="640" height="480"></iframe>"/>
-
+  ![README demo](/demo/readme.gif)
+  
   # Project Title 
   README Generator
   # Description
