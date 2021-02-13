@@ -20,7 +20,7 @@
   * [Contribution](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [GithubAccount] (#githubAccount)
+  * [GithubAccount](#githubAccount)
   
   # Installation
   The following necessary dependencies must be installed to run the application properly: You will need to type in the command node index.js
