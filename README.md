@@ -1,6 +1,6 @@
 
   # Github URL:
-  https://drive.google.com/file/d/1OVbrZMJSlVHcD7N17ZLXA4ZlsMkvHVUf/view
+  https://github.com/Herve8/README-Generator
 
   # Video link on Google Drive:
   https://drive.google.com/file/d/1OVbrZMJSlVHcD7N17ZLXA4ZlsMkvHVUf/view
