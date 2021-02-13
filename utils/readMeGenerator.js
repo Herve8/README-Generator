@@ -23,7 +23,7 @@ function generateReadMe(data) {
   How to use this application. ${data.Usage}
 
   # Licence
-  This project is licence under the ${data.Licence} licence.
+  This project is licence under the ${data.Licence}.
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/Herve8/README-Generator)
 
   # Contribution
