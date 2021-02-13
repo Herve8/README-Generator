@@ -6,7 +6,7 @@
   https://drive.google.com/file/d/1z8E4_LLMdpGwzu0tMMZQ31mk0HUv8lBE/view
 
   # Video tutorial
-  <img src="<iframe src="https://drive.google.com/file/d/1z8E4_LLMdpGwzu0tMMZQ31mk0HUv8lBE/preview" width="640" height="480"></iframe>"/>
+  <img src="<img src="https://drive.google.com/file/d/1z8E4_LLMdpGwzu0tMMZQ31mk0HUv8lBE/preview" width="640" height="480"></iframe>"/>
 
   # Project Title 
   README Generator
