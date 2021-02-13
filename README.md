@@ -30,7 +30,7 @@
   How to use this application. any bootcamp students
 
   # Licence
-  This project is license under the ISC Licene licence.
+  This project is license under the ISC licence.
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/Herve8/README-Generator)
 
   # Contribution
